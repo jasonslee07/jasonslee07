@@ -50,6 +50,7 @@
 
 <table>
   <tr>
+    <td width="84" align="center" valign="top"></td>
     <td valign="top">
       <strong>Panda Programmer</strong> · Computer Science Instructor
       <ul>
@@ -64,7 +65,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a href="https://github.com/jasonslee07/redress"><img src="assets/redress.png" width="64" alt="Redress"></a></td>
+    <td width="84" align="center" valign="top"><img src="assets/redress.png" width="64" alt="Redress"></td>
     <td valign="top">
       <strong><a href="https://github.com/jasonslee07/redress">Redress</a></strong>
       <ul>
@@ -78,7 +79,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a href="https://github.com/jasonslee07/sell4impact"><img src="assets/s4i.png" width="64" alt="Sell4Impact"></a></td>
+    <td width="84" align="center" valign="top"><img src="assets/s4i.png" width="64" alt="Sell4Impact"></td>
     <td valign="top">
       <strong><a href="https://github.com/jasonslee07/sell4impact">Sell4Impact</a></strong>
       <ul>
