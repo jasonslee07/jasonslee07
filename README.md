@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/ao.png" width="64" alt="American Operator"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-ao"><img src="assets/ao.png" width="64" alt="American Operator"></a></td>
     <td valign="top">
       <strong>American Operator</strong> · AI Engineer Intern
       <ul>
@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/ezd.png" width="64" alt="Easy Dynamics"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-ezd"><img src="assets/ezd.png" width="64" alt="Easy Dynamics"></a></td>
     <td valign="top">
       <strong>Easy Dynamics</strong> · Software Engineer Intern
       <ul>
@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/fire.png" width="64" alt="FIRE at the University of Maryland"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-fire"><img src="assets/fire.png" width="64" alt="FIRE at the University of Maryland"></a></td>
     <td valign="top">
       <strong>First-Year Innovation &amp; Research Experience</strong> · Quantum ML Undergraduate Researcher
       <ul>
@@ -65,7 +65,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/redress.png" width="64" alt="Redress"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-redress"><img src="assets/redress.png" width="64" alt="Redress"></a></td>
     <td valign="top">
       <strong><a href="https://github.com/jasonslee07/redress">Redress</a></strong>
       <ul>
@@ -79,7 +79,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/s4i.png" width="64" alt="Sell4Impact"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-s4i"><img src="assets/s4i.png" width="64" alt="Sell4Impact"></a></td>
     <td valign="top">
       <strong><a href="https://github.com/jasonslee07/sell4impact">Sell4Impact</a></strong>
       <ul>
@@ -93,7 +93,7 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a><img src="assets/gotcha.png" width="64" alt="Gotcha!"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-gotcha"><img src="assets/gotcha.png" width="64" alt="Gotcha!"></a></td>
     <td valign="top">
       <strong>Gotcha!</strong>
       <ul>
