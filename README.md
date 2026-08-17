@@ -12,9 +12,10 @@
     <td valign="top">
       <strong>American Operator</strong> · Software Engineer Intern
       <ul>
-        <li>Deployed a full-stack TypeScript KPI dashboard (React, Postgres) with role-based access control and dynamic, per-company KPIs</li>
-        <li>Shipped Inngest pipelines syncing BigQuery metrics to a live dashboard and weekly KPI emails to leadership, replacing manual reporting</li>
-        <li>Automated accounts payable with an AI pipeline that reads invoice PDFs, matches costs to jobs, and files 70+ Knowify bills every month</li>
+        <li>Deployed a full-stack TypeScript KPI dashboard (React, PostgreSQL) with role-based access control and dynamic, per-company KPIs</li>
+        <li>Shipped dlt and dbt pipelines pulling 3 CRMs and 10 financial accounts into BigQuery, with Inngest crons syncing data marts to Neon</li>
+        <li>Generated $25,000+ in annual EBITDA and freed 200+ hrs/yr of manual reporting by automating weekly KPI emails across the portfolio</li>
+        <li>Automated accounts payable with an AI pipeline on DeepInfra that reads invoice PDFs, matches costs to jobs, and files 70+ bills a month</li>
       </ul>
     </td>
   </tr>
@@ -37,12 +38,38 @@
 
 <table>
   <tr>
-    <td width="84" align="center" valign="top"><a name="logo-fire"><img src="assets/fire.png" width="64" alt="FIRE at the University of Maryland"></a></td>
+    <td width="84" align="center" valign="top"><a name="logo-umdcs"><img src="assets/umdcs.jpg" width="64" alt="UMD Department of CS"></a></td>
     <td valign="top">
-      <strong>First-Year Innovation &amp; Research Experience</strong> · Quantum ML Undergraduate Researcher
+      <strong>UMD Department of CS</strong> · Teaching Assistant: CMSC389O (The Coding Interview)
       <ul>
-        <li>Researched quantum Wasserstein GANs for high-resolution image generation, evaluating FRQI image encoding across MNIST data</li>
+        <li>Teaching data structures, algorithms, system design, and time and space complexity to 100+ university students for technical interviews</li>
+        <li>Creating 8 Python assignments and test suites, grading 100+ submissions, conducting 20+ mock interviews, workshopping 20+ resumes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="84" align="center" valign="top"><a name="logo-umd"><img src="assets/umd.png" width="64" alt="University of Maryland"></a></td>
+    <td valign="top">
+      <strong>University of Maryland</strong> · Quantum ML Undergraduate Researcher
+      <ul>
+        <li>Researching quantum Wasserstein GANs for high-resolution image generation, evaluating FRQI image encoding across MNIST data</li>
         <li>Diagnosed a CPU-bound bottleneck in the quantum GAN pipeline (JAX) and cut image-generation time from 30 to 2 hours via GPU</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="84" align="center" valign="top"><a name="logo-google"><img src="assets/google.jpg" width="64" alt="Google"></a></td>
+    <td valign="top">
+      <strong>Google</strong> · Student Ambassador
+      <ul>
+        <li>Evangelizing Google AI tools (Gemini, NotebookLM) to a 40,000+ student network via campus workshops, events, and media</li>
+        <li>Consulting for Google product teams by crowdsourcing peer prompts and use cases to improve Gemini feature development</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +81,7 @@
     <td valign="top">
       <strong>Panda Programmer</strong> · Computer Science Instructor
       <ul>
-        <li>Mentored 50+ K-8 students in Scratch, Python, JavaScript, HTML, CSS, and robotics through hands-on programming projects</li>
+        <li>Mentored 50+ students in Scratch, Python, JavaScript, HTML, CSS, and robotics through hands-on programming projects</li>
         <li>Presented lessons on data structures, control flow, event-driven processing, serial and parallel execution, and animation</li>
       </ul>
     </td>
@@ -71,7 +98,7 @@
       <ul>
         <li>Full-stack React and TypeScript app where an AI agent helps citizens file complaints and pushes government agencies to respond</li>
         <li>Designed to automatically route cases to the right agency, email via AgentMail, auto-escalate stalled replies, and text citizens via Linq</li>
-        <li>Cuts constituents' per-case time ~90% and agency-reply turnaround from days to same-day, across 10 federal agencies</li>
+        <li>Cuts constituents’ per-case time ~90% and agency-reply turnaround from days to same-day, across 10 federal agencies</li>
       </ul>
     </td>
   </tr>
